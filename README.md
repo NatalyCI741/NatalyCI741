@@ -18,7 +18,8 @@
 
 ###
 
-<img align="left" height="140" src="https://animesha.org/uploads/posts/2025-07/6868333fe1ca5_1751659401.jpg"  />
+<img align="left" height="140" src="https://animesha.org/uploads/posts/2025-07/6868333fe1ca5_1751659401.jpg](https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" />
+
 
 ###
 
