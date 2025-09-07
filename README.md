@@ -4,10 +4,6 @@
 
 
 <div align="center">
-  <img src="https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
-</div>
-
-<div align="center">
    ⋆˚🐝˖        ╱|、
                (˚ˎ 。7   look, a bee!
                 |、˜〵          
