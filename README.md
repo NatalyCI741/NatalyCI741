@@ -1,23 +1,45 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=EA580C&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Nataly;Frontend+Developer+%26+UI+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=EA580C&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Nataly;Frontend+Developer+from+Colombia;19+años+%7C+Software+Development+Student;I+love+drawing+%26+coding!" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
 </div>
 
+<!-- Added animated cat section -->
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Coding Cat" />
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Cat typing" />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Coding Cat" />
+</div>
+
+<div align="center">
+  
+\`\`\`
+     /\_/\  
+    ( o.o ) 
+     > ^ <
+\`\`\`
+**¡Hola! Soy Nataly, una gatita programadora** 🐱‍💻
+
+</div>
+
 ## 🚀 About Me
 
 \`\`\`javascript
 const nataly = {
-    pronouns: "she/her",
-    location: "🌎 Somewhere in the world",
+    name: "Nataly",
+    age: 19,
+    location: "🇨🇴 Colombia",
+    education: "Análisis y Desarrollo de Software",
     focus: "Frontend Development",
+    hobbies: ["Drawing 🎨", "Coding 💻", "UI Design ✨"],
     currentlyLearning: ["React", "Laravel", "Modern CSS"],
-    funFact: "I love creating beautiful user interfaces ✨"
+    funFact: "I love creating beautiful interfaces and drawing cute cats! 🐱"
 };
 \`\`\`
 
+<!-- Updated tech stack section with better spacing -->
 ## 💻 Tech Stack
 
 <div align="center">
@@ -34,6 +56,13 @@ const nataly = {
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+</div>
+
+<!-- Added cat-themed section divider -->
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" alt="Cat paw divider" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" alt="Cat paw divider" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50" alt="Cat paw divider" />
 </div>
 
 ## 📊 GitHub Stats
@@ -54,6 +83,7 @@ const nataly = {
 
 - 🔭 Building responsive web applications with **React**
 - 🌱 Learning advanced **CSS animations** and **JavaScript frameworks**
+- 🎨 Creating digital art and UI designs in my free time
 - 👯 Looking to collaborate on **frontend projects**
 - 💬 Ask me about **HTML, CSS, React, and UI/UX design**
 
@@ -99,6 +129,10 @@ const nataly = {
   
   **Thanks for visiting! 😊**
   
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="50" alt="Waving cat" />
+  
   *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+  
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="60" alt="Cat coding" />
   
 </div>
