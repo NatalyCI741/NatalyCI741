@@ -4,21 +4,13 @@
   <img src="https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
 </div>
 
-<!-- Added animated cat section -->
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Coding Cat" />
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" alt="Cat typing" />
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" alt="Coding Cat" />
-</div>
-
 <div align="center">
   
 \`\`\`
      /\_/\  
     ( o.o ) 
      > ^ <
-\`\`\`
-**¡Hola! Soy Nataly, una gatita programadora** 🐱‍💻
+\`\`\
 
 </div>
 
