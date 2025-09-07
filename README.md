@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=EA580C&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Nataly;Frontend+Developer+from+Colombia;19+años+%7C+Software+Development+Student;I+love+drawing+%26+coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=EA580C&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Nataly;Frontend+Developer+from+Colombia;Creative+Coder+%26+Digital+Artist" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,6 +23,29 @@
 **¡Hola! Soy Nataly, una gatita programadora** 🐱‍💻
 
 </div>
+
+## 🌟 Sobre mí
+
+\`\`\`javascript
+const sobreMi = {
+    nombre: "Nataly",
+    edad: 19,
+    ubicacion: "🇨🇴 Colombia",
+    estudios: "Aprendiz en Análisis y Desarrollo de Software",
+    especialidad: "Frontend Development",
+    pasiones: ["Dibujar 🎨", "Programar 💻", "Diseño UI/UX ✨"],
+    personalidad: "Creativa, curiosa y siempre aprendiendo",
+    datoCurioso: "¡Me encanta crear interfaces hermosas y dibujar gatitos adorables! 🐱"
+};
+
+console.log("¡Bienvenido a mi mundo de código y creatividad!");
+\`\`\`
+
+### 🎨 Lo que me apasiona:
+- **Arte Digital**: Crear ilustraciones y diseños únicos
+- **Desarrollo Frontend**: Dar vida a interfaces interactivas
+- **Aprendizaje Continuo**: Siempre explorando nuevas tecnologías
+- **Resolución Creativa**: Encontrar soluciones innovadoras a problemas
 
 ## 🚀 About Me
 
