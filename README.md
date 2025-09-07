@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=EA580C&center=true&vCenter=true&width=940&lines=Hi+👋+I'm+Nataly;Frontend+Developer+from+Colombia;Creative+Coder+%26+Digital+Artist" alt="Typing SVG" />
-</div>
+
 
 <div align="center">
   <img src="https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
