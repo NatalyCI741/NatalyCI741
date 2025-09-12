@@ -32,7 +32,7 @@
 
   
 ## 🌟 Sobre mí
-
+<div align="center">
 
 ```
   Nombre y Apellidos: Nataly Chala Ipuz
