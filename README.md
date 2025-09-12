@@ -34,6 +34,7 @@
 
   
 <div align="center">
+<pre>
 
 ```
   Nombre y Apellidos: Nataly Chala Ipuz
@@ -47,13 +48,14 @@
 
 🚀 Dato Curioso
 - Arte Digital: Crear ilustraciones y diseños únicos  
-- Frontend:Dar vida a interfaces modernas, interactivas y accesibles  
+- Frontend: Dar vida a interfaces modernas, interactivas y accesibles  
 - Backend: Aprendiendo a conectar el frontend con bases de datos y servidores  
-- Full Stack en construcción: Siempre explorando nuevas tecnologías para  
-- Resolución Creativa:Encontrar soluciones innovadoras a problemas de diseño y desarrollo  
-
+- Full Stack en construcción: Siempre explorando nuevas tecnologías  
+- Resolución Creativa: Soluciones innovadoras en diseño y desarrollo
 
  ```
+</pre>
+</div>
 <div align="center">
   <img src="https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
 </div>
