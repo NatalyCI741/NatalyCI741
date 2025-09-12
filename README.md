@@ -9,7 +9,6 @@
 <br> 
 <div align="center">
 
-
 ```text
 ⣿⣿⡀⠀⠀⣠⡴⢒⣻⣯⣽⣿⡷⠶⠶⠿⠭⠓⠰⠲⢀⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⡿⣴⢟⣽⣾⠿⠛⠉⠁⡄⢀⣶⡎⠄⠀⠀⠴⡀⠐⣝⣿⣿⣿⣿⣿⣿
@@ -27,6 +26,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
+</div>
 
 
   
@@ -34,7 +34,7 @@
 
   
 <div align="center">
-<pre>
+
 
 ```
   Nombre y Apellidos: Nataly Chala Ipuz
@@ -54,7 +54,7 @@
 - Resolución Creativa: Soluciones innovadoras en diseño y desarrollo
 
  ```
-</pre>
+
 </div>
 <div align="center">
   <img src="https://staticg.sportskeeda.com/editor/2022/09/b8258-16624650488441-1920.jpg" alt="Profile Image" width="200" style="border-radius: 50%;" />
