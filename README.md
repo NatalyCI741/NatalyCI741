@@ -36,7 +36,7 @@
 ## 🌟 Sobre mí
 
 
-```j
+```
   Nombre y Apellidos: Nataly Chala Ipuz
   Edad: 19,
   Ubicacion: Vda la libertad-Neiva
@@ -50,7 +50,7 @@
 - Arte Digital: Crear ilustraciones y diseños únicos  
 - Frontend:Dar vida a interfaces modernas, interactivas y accesibles  
 - Backend: Aprendiendo a conectar el frontend con bases de datos y servidores  
-- Full Stack en construcción: Siempre explorando nuevas tecnologías para crecer de frontend a full stack  
+- Full Stack en construcción: Siempre explorando nuevas tecnologías para  
 - Resolución Creativa:Encontrar soluciones innovadoras a problemas de diseño y desarrollo  
 
 
