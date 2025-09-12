@@ -8,7 +8,6 @@
 
 <br> 
 <div align="center">
-
 <div style="display: flex; align-items: center;">
   <pre style="margin: 0; padding: 0;">
 ⣿⣿⡀⠀⠀⣠⡴⢒⣻⣯⣽⣿⡷⠶⠶⠿⠭⠓⠰⠲⢀⣿⣿⣿⣿⣿⣿⣿
@@ -21,12 +20,14 @@
 ⣿⣿⣿⣿⣿⣿⣦⣈⣬⠻⣿⡿⣡⣾⣿⣿⠟⢡⣆⣿⠀⢰⡡⣫⣾⣿⣿⣏
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⣣⣾⡏⠍⡉⠕⠤⢞⣽⠋⠀⢸⣯⣙⢻⣿⣿⣏
 ⣿⣿⣿⣝⢿⣿⣿⡿⢁⡾⠟⠉⠀⠘⠆⠥⣥⡖⠁⠀⣄⣼⣿⣿⣷⣿⣿⡿
+⣿⣿⡘⣿⢿⡿⢟⣵⡇⡄⣀⣀⠀⠀⡀⠀⠙⠞⣡⠠⢺⣿⣿⣿⣿⡟⠁⠀
+⡿⡟⣽⣷⣼⠻⣿⣿⣇⠹⢡⣻⣷⡹⣿⣧⣈⣀⣛⣃⣼⣿⣿⠿⠋⠀⠀⠀
+⢹⣏⡟⠻⣿⣷⢹⣿⣿⡀⠀⠀⢍⠁⠙⠸⠿⠿⢯⠹⠿⢏⣡⠀⠀
   </pre>
   <div style="margin-left: 20px;">
     <h3>✨ "La creatividad es el motor que impulsa mi código." ✨</h3>
   </div>
 </div>
-
 
 
   
