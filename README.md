@@ -74,3 +74,37 @@
 
 
 
+## <h2 align="center"> # </h2>
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 100px; padding: 0 100px; margin: 100px 0;">
+
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 1" width="80" height="80" style="border-radius: 50%; border: 80px solid #FFB6C1; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 2" width="80" height="80" style="border-radius: 50%; border: 3px solid #98FB98; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 3" width="80" height="80" style="border-radius: 50%; border: 3px solid #DDA0DD; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 4" width="80" height="80" style="border-radius: 50%; border: 3px solid #87CEEB; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 5" width="80" height="80" style="border-radius: 50%; border: 3px solid #F0E68C; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 6" width="80" height="80" style="border-radius: 50%; border: 3px solid #DEB887; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 7" width="80" height="80" style="border-radius: 50%; border: 3px solid #FF4500; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 8" width="80" height="80" style="border-radius: 50%; border: 3px solid #FFD700; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 9" width="80" height="80" style="border-radius: 50%; border: 3px solid #00FF00; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 10" width="80" height="80" style="border-radius: 50%; border: 3px solid #4169E1; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 11" width="80" height="80" style="border-radius: 50%; border: 3px solid #FF69B4; object-fit: cover;" />
+  <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 12" width="80" height="80" style="border-radius: 50%; border: 3px solid #32CD32; object-fit: cover;" />
+   <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 12" width="80" height="80" style="border-radius: 50%; border: 3px solid #32CD32; object-fit: cover;" />
+   <img src="https://tierragamer.com/wp-content/uploads/2020/06/Goku-Cabello-Dragon-Ball-1.jpg" alt="Goku 12" width="80" height="80" style="border-radius: 50%; border: 3px solid #32CD32; object-fit: cover;" />
+</div>
+
+## <h2 align="center">🌐 Contactame</h2>
+
+<div align="center">
+  <a href="https://www.youtube.com/@Natty_uu741" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/nattyci_byethost16_?igsh=MTdpYmhhNWdib3Zkbw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://www.facebook.com/nataly.chalaipuz.7" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
+</div>
+
+
