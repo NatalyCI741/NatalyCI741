@@ -24,6 +24,23 @@
 ⡿⡟⣽⣷⣼⠻⣿⣿⣇⠹⢡⣻⣷⡹⣿⣧⣈⣀⣛⣃⣼⣿⣿⠿⠋⠀⠀⠀
 ⢹⣏⡟⠻⣿⣷⢹⣿⣿⡀⠀⠀⢍⠁⠙⠸⠿⠿⢯⠹⠿⢏⣡⠀⠀
   </pre>
-
 </div>
+
+<h2 align="center">✨🌟 Sobre mí 🌟✨</h2>
+
+
+<div align="center">
+  
+```
+  Nombre y Apellidos: Nataly Chala Ipuz
+  Edad: 19,
+  Ubicacion: Vda la libertad-Neiva
+  Estudios: Aprendiz en Análisis y Desarrollo de Software
+  Especialidad: "Frontend Development",
+  Pasiones:Dibujar 🎨, Programar 💻, Videojuegos 🎮, Series ✨
+  personalidad: Timida,Creativa, Curiosa y siempre aprendiendo
+
+¡Bienvenido a mi mundo de código y creatividad!")
+
+
 
